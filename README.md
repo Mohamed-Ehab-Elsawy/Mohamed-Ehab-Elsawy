@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BZSVwhl5ml9Je5Vhdeswb5e7ypJ596l7/view?usp=drive_link](https://drive.google.com/file/d/1BZSVwhl5ml9Je5Vhdeswb5e7ypJ596l7/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/mohamed-ehab003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ehab003" height="30" width="40" /></a>
 <a href="https://fb.com/mooo.ehab03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mooo.ehab03" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed_ehab___0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_ehab___0" height="30" width="40" /></a>
